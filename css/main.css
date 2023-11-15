@@ -12,7 +12,7 @@ body {
 /* ----------- For screens 1200px wide and larger----------- */
 @media (min-width: 1200px) {
   body {
-    background-color: violet;
+    background-color: lightyellow;
   }
 
 }
